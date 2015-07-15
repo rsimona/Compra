@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Compra</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="llistaBuida">No hi ha articles a la llista</string>
+    <string name="afegir">afegir</string>
+    <string name="hintEntrada">Escriu el nom de l\'article</string>
+    <string name="dataError">Error a l\'obtenir les dades</string>
+    <string name="labelQuantitat">Quantitat:</string>
+    <string name="entradaBuida">Escriu el nom d\'un article abans d\'afegir-lo</string>
+    <string name="hintQuantitat">Escriu la quantitat</string>
+    <string name="up">Arrossega amunt per introduir articles</string>
+    <string name="down">Arrossega avall per amagar</string>
+    <string name="editarItem">Editar article</string>
+    <string name="eliminarItem">Eliminar article</string>
+</resources>
